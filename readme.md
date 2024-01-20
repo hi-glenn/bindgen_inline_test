@@ -5,5 +5,5 @@ cargo check
 
 #### test
 ```bash
-cargo test --lib -- test_inc 
+cargo test --lib -- test_add
 ```
